@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 806,
-    "timeDay": 806,
-    "timeWeek": 806,
-    "timeMonth": 806,
-    "timeYear": 806,
+    "time": 609,
+    "timeDay": 609,
+    "timeWeek": 609,
+    "timeMonth": 609,
+    "timeYear": 609,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1125,
-    "timeDay": 1125,
-    "timeWeek": 1125,
-    "timeMonth": 1125,
-    "timeYear": 1125,
+    "time": 980,
+    "timeDay": 980,
+    "timeWeek": 980,
+    "timeMonth": 980,
+    "timeYear": 980,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1141,
-    "timeDay": 1141,
-    "timeWeek": 1141,
-    "timeMonth": 1141,
-    "timeYear": 1141,
+    "time": 1025,
+    "timeDay": 1025,
+    "timeWeek": 1025,
+    "timeMonth": 1025,
+    "timeYear": 1025,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "mtchoun-mouh",
+    "url": "https://mtchoun-mouh.mongulu.cm/",
+    "icon": "https://icons.duckduckgo.com/ip3/mtchoun-mouh.mongulu.cm.ico",
+    "slug": "mtchoun-mouh",
+    "status": "down",
+    "uptime": "25.82%",
+    "uptimeDay": "25.82%",
+    "uptimeWeek": "25.82%",
+    "uptimeMonth": "25.82%",
+    "uptimeYear": "25.82%",
+    "time": 453,
+    "timeDay": 453,
+    "timeWeek": 453,
+    "timeMonth": 453,
+    "timeYear": 453,
+    "dailyMinutesDown": {
+      "2023-01-01": 0
+    }
   }
 ]
