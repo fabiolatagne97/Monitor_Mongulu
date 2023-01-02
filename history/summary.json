@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mtchoun-mouh.mongulu.cm.ico",
     "slug": "mtchoun-mouh",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 404,
     "timeDay": 404,
     "timeWeek": 404,
     "timeMonth": 404,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2023-01-02": 2,
+      "2023-01-02": 53,
       "2023-01-01": 147
     }
   },
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-02": 2,
+      "2023-01-02": 53,
       "2023-01-01": 53
     }
   }
