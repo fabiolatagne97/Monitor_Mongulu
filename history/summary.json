@@ -42,10 +42,10 @@
     "url": "https://tchoung-te.mongulu.cm",
     "icon": "https://icons.duckduckgo.com/ip3/tchoung-te.mongulu.cm.ico",
     "slug": "tchoung-te",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1154,
@@ -53,7 +53,9 @@
     "timeWeek": 973,
     "timeMonth": 1154,
     "timeYear": 1154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "mtchoun-mouh",
@@ -82,12 +84,12 @@
     "url": "https://pg2.mongulu.cm",
     "icon": "https://icons.duckduckgo.com/ip3/pg2.mongulu.cm.ico",
     "slug": "pg2",
-    "status": "up",
-    "uptime": "53.74%",
-    "uptimeDay": "66.24%",
+    "status": "down",
+    "uptime": "53.76%",
+    "uptimeDay": "66.23%",
     "uptimeWeek": "66.63%",
-    "uptimeMonth": "53.74%",
-    "uptimeYear": "53.74%",
+    "uptimeMonth": "53.76%",
+    "uptimeYear": "53.76%",
     "time": 2491,
     "timeDay": 25707,
     "timeWeek": 4920,
